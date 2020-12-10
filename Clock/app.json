@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/common/common",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#E7624F",
+    "navigationBarTitleText": "督学灯",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "专注模式",
+        "iconPath": "./images/jishi4.png",
+        "selectedIconPath": "./images/jishi2.png"
+      },
+      {
+        "pagePath": "pages/common/common",
+        "text": "普通模式",
+        "iconPath": "./images/common1.png",
+        "selectedIconPath": "./images/common2.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "统计",
+        "iconPath": "./images/tongji3.png",
+        "selectedIconPath": "./images/tongji2.png"
+      }
+    ]
+  }
+}

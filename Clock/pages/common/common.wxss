@@ -1,0 +1,18 @@
+.study1{
+  color: forestgreen;
+  text-align: center;
+}
+.study2{
+  color: maroon;
+  text-align: center;
+}
+.begin{
+  width:280rpx;
+  height:130rpx;
+  margin: 0 auto;
+  line-height: 90rpx;
+  text-align: center;
+  border:6rpx solid #4fe7b4;
+  color: #4fe7da;
+  border-radius: 60rpx;
+}
